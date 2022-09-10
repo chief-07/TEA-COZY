@@ -120,3 +120,19 @@ div.mission {
   width: 300px;
   opacity: 1;
 }
+
+footer {
+  height: 200px;
+}
+
+footer div {
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+footer p {
+  margin-left: 20px;
+  text-align: left;
+}
