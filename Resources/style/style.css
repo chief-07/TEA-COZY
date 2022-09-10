@@ -61,3 +61,37 @@ div.mission {
   top: 50%;
   padding: 1rem;
 }
+
+#tea_month {
+  margin-top: 200px;
+  text-align: center;
+}
+#tea_month h2 {
+  margin: 20px;
+}
+#tea_month h2 + p {
+  margin: 20px;
+}
+.top img {
+  display: inline-block;
+  height: 200px;
+  width: 300px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+.bottom img {
+  width: 300px;
+  margin-right: 20px;
+  display: inline-block;
+  height: 200px;
+}
+#tea_img div {
+  display: inline-block;
+}
+.top div {
+  margin-bottom: 20px;
+}
+.bottom div {
+  margin-bottom: 50px;
+}
