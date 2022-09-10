@@ -21,3 +21,24 @@ header {
   position: fixed;
   width: 100%;
 }
+
+ul {
+  width: 81vw;
+  display: flex;
+  justify-content: flex-end;
+}
+li {
+  padding: 1.2rem;
+}
+h1 {
+  font-size: 50px;
+}
+header a {
+  color: seashell;
+}
+header img {
+  height: 50px;
+  margin-left: 10px;
+  margin-top: 0.5rem;
+  margin-right: 60px;
+}
